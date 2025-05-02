@@ -19,7 +19,7 @@ Programa exclusivo e gratuito. <br/>
 <br>
 
 <p align="center">
-  <img alt="Cadastro de usuários" src="./src/assets/Captura de tela 2024-10-30 200141.png" width="100%">
+  <img alt="Cadastro de usuários" src="./assets/Captura de tela 2024-10-30 200141.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
